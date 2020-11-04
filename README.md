@@ -22,3 +22,4 @@ The data used for training and testing are available in <br />
 https://drive.google.com/file/d/1tzsZwk0exESwq1hoLii0SI5MWB-k5BxC/view?usp=sharingput . <br />
 
 ## How to run the code
+Please refer to the https://github.com/jiangdada1221/DrugOrchestra/tree/master/MTL to see examples.
