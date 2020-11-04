@@ -14,4 +14,11 @@ python==3.7.6
 cuda==9.2
 
 ## Data
-The data after thresholding and feature extraction are available in https://drive.google.com/file/d/1tzsZwk0exESwq1hoLii0SI5MWB-k5BxC/view?usp=sharingput
+The data after thresholding and feature extraction are available in <br /> 
+https://drive.google.com/file/d/1JvGDiNMAqWJb4Ya0c7ahV9fM1MCjtkxA/view?usp=sharing .
+ <br />
+
+The data used for training and testing are available in <br />
+https://drive.google.com/file/d/1tzsZwk0exESwq1hoLii0SI5MWB-k5BxC/view?usp=sharingput . <br />
+
+## How to run the code
