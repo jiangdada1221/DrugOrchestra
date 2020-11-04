@@ -14,4 +14,4 @@ python==3.7.6
 cuda==9.2
 
 ## Data
-
+The data after thresholding and feature extraction are available in https://drive.google.com/file/d/1tzsZwk0exESwq1hoLii0SI5MWB-k5BxC/view?usp=sharingput
