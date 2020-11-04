@@ -33,6 +33,8 @@ To investigate transferability :
 
   python train_d2d.py --model 26 --num1 ? --num2 ? --weight1 1 --weight2 1 --dynamic ?
   #across datasets, num1 represents source dataset,num2 represents target dataset
+  
+  
 
   python train_d2d.py --model 33 --num1 ? --num2 ? --weight1 1 --weight2 1 --dynamic ?
   #inner datasets within same task. e.g. num1-1(STITCH),num2-7(SIDER)
@@ -45,3 +47,5 @@ To explore the applicability domain :
   Put the files in the right directory and then run :
 
   python filter.py --threshold ?
+
+If you want to get the drug embedding by your own, you can refer to http://snap.stanford.edu/gnn-pretrain/ 
