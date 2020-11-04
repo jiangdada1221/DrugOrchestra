@@ -1,2 +1,2 @@
 # DrugOrchestra
-Will be updated soon
+DrugOrchestra is a multi-task learning neural model
