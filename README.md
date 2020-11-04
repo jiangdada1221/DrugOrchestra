@@ -10,7 +10,7 @@ rdkit==2017.09.1 <br />
 tqdm==4.48.0 <br />
 scipy=1.4.1 <br />
 sklearn==0.23.2 <br />
-python==3.7.6
+python==3.7.6<br />
 cuda==9.2
 
 ## Data
@@ -23,3 +23,6 @@ https://drive.google.com/file/d/1tzsZwk0exESwq1hoLii0SI5MWB-k5BxC/view?usp=shari
 
 ## How to run the code
 Please refer to the https://github.com/jiangdada1221/DrugOrchestra/tree/master/MTL to see examples.
+
+## Correspondence
+If you have any question, feel free to contact jiangdada12344321@gmail.com
