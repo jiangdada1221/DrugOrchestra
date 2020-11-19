@@ -26,7 +26,9 @@ Please refer to the https://github.com/jiangdada1221/DrugOrchestra/tree/master/M
 
 ## To make predictions
 Run the script in Predict folder by: <br />
+<br />
 python make_predictions.py --SMILES arg1 --path_to_gnn_model arg2 --path_to_MTL arg3 <br />
+<br />
 arg1 is the input SMILES string you want to use to make predictions <br />
 arg2 is the path to the pretrained GNN model for drug embedding extraction <br />
 args is the path to the pretrained MTL model <br />
