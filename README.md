@@ -22,7 +22,16 @@ The data used for training and testing are available in <br />
 https://drive.google.com/file/d/1tzsZwk0exESwq1hoLii0SI5MWB-k5BxC/view?usp=sharingput . <br />
 
 ## How to run the code
-Please refer to the https://github.com/jiangdada1221/DrugOrchestra/tree/master/MTL to see examples.
+Please refer to the https://github.com/jiangdada1221/DrugOrchestra/tree/master/MTL to see examples. <br />
+
+## To make predictions
+Run the script in Predict folder by: <br />
+python make_predictions.py --SMILES arg1 --path_to_gnn_model arg2 --path_to_MTL arg3 <br />
+arg1 is the input SMILES string you want to use to make predictions <br />
+arg2 is the path to the pretrained GNN model for drug embedding extraction <br />
+args is the path to the pretrained MTL model <br />
+By running this script, you will get output of prediced targets,response,side effects for the given drug <br />
+
 
 ## Correspondence
 If you have any question, feel free to contact jiangdada12344321@gmail.com
