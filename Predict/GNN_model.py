@@ -6,6 +6,8 @@ import torch.nn.functional as F
 from torch_scatter import scatter_add
 from torch_geometric.nn.inits import glorot, zeros
 
+#copied from http://snap.stanford.edu/gnn-pretrain
+
 num_atom_type = 120 #including the extra mask tokens
 num_chirality_tag = 3
 
