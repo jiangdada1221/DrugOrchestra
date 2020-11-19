@@ -31,7 +31,7 @@ python make_prediction.py --SMILES arg1 --path_to_gnn_model arg2 --path_to_MTL a
 <br />
 arg1 is the input SMILES string you want to use to make predictions <br />
 arg2 is the path to the pretrained GNN model for drug embedding extraction <br />
-args is the path to the pretrained MTL model <br />
+args is the path to the pretrained MTL model <br /> <br />
 By running this script, you will get output of prediced targets,response,side effects for the given drug <br />
 
 
