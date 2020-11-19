@@ -18,7 +18,7 @@ train_t2t.py : investigating transferability of task to task
 
 How to use (belows scripts are just examples, please see the py files for documentation):
 
-First, download the data from https://drive.google.com/file/d/1tzsZwk0exESwq1hoLii0SI5MWB-k5BxC/view?usp=sharingput
+First, download the data from https://drive.google.com/file/d/1SlkSblbS8QxQRVd4_ndxwteXl_9jp59z/view?usp=sharing
 Put the data inside the right directory.
 
 Before running the code for training, split the data first:
