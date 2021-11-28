@@ -1,5 +1,5 @@
 # DrugOrchestra
-DrugOrchestra is a multi-task learning neural model used for jointly training tasks of drug target prediction, drug response prediction, drug side effect prediction. It is proven to be better compared to single-task learning (training only one task) under the same training conditions
+DrugOrchestra is a multi-task learning neural model used for jointly training tasks of drug target prediction, drug response prediction, drug side effect prediction. It is proven to be better compared to single-task learning (training only one task) under the same training conditions. The paper is accepted by RECOMB2021.
 
 ## Packages and environment
 torch==1.4.0 <br />
