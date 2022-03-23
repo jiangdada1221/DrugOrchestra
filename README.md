@@ -36,4 +36,4 @@ By running this script, you will get output of prediced targets,response,side ef
 
 
 ## Correspondence
-If you have any question, feel free to contact jiangdada12344321@gmail.com
+I check email frequently, if you have any question, feel free to contact jiangdada12344321@gmail.com
